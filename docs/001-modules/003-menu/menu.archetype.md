@@ -21,4 +21,4 @@ Este arquetipo crea un elemento individual dentro de una pantalla de menú.
 -   **Descripción:** Representa un elemento interactivo en un menú, como un botón.
 -   **Componentes Asociados:**
     -   `MenuItemComponent`: Contiene información sobre el elemento, como su texto o su posición.
-    -   `ButtonComponent`: Añadido si el elemento de menú es un botón clickeable, definiendo su acción. 
+    -   `ButtonComponent`: Añadido si el elemento de menú es un botón clickeable, definiendo su acción. \n

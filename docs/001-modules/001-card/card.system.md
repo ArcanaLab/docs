@@ -25,3 +25,4 @@ Basado en la arquitectura, estos son los sistemas clave para la gestión de cart
         -   Modificar `StatsComponent` de otras cartas (ej. infligir daño).
         -   Cambiar el estado del jugador (`ResourceComponent`, `HandComponent`).
         -   Alterar el estado del turno o fase del juego (`CurrentTurnComponent`, `GamePhaseComponent`).
+\n

@@ -16,3 +16,4 @@ Este arquetipo se utiliza para crear cartas que representan unidades o personaje
     -   `CostComponent`: Define el costo en recursos para jugar la carta.
     -   `StatsComponent`: Contiene los valores de ataque y salud de la criatura.
     -   `EffectDefinitionComponent` (Opcional): Para criaturas con habilidades especiales.
+\n
