@@ -4,5 +4,6 @@
 
 La documentación está organizada en la carpeta [docs](./docs/).
 
-Puedes consultar los módulos de la documentación en la carpeta [modules](./docs/modules/).
-Y las guías en la carpeta [guides](./docs/guides/).
+Puedes consultar los módulos en [001-modules](./docs/001-modules/).
+
+

@@ -14,4 +14,4 @@ Este arquetipo se utiliza para configurar la entidad principal que representa el
 -   **Componentes Asociados:**
     -   `CurrentTurnComponent`: Realiza un seguimiento del jugador activo y el número de turno.
     -   `GamePhaseComponent`: Define la fase actual del juego (por ejemplo, inicio, ataque, fin).
-    -   `ZoneComponent`: Define áreas específicas del tablero, como el campo de batalla o el cementerio, y contiene las cartas que se encuentran en ellas. 
+    -   `ZoneComponent`: Define áreas específicas del tablero, como el campo de batalla o el cementerio, y contiene las cartas que se encuentran en ellas. \n

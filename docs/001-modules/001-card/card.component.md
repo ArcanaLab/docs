@@ -35,3 +35,4 @@ Basado en la arquitectura, estos son los componentes fundamentales para las cart
     -   `trigger: String` - La condición que activa el efecto (ej. "OnPlay", "OnDeath").
     -   `effectLogicId: String` - Identificador de la lógica del efecto a ejecutar.
     -   `params: Map` - Parámetros adicionales para la lógica del efecto.
+\n

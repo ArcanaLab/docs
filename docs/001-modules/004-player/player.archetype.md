@@ -26,4 +26,4 @@ Este arquetipo se usa para crear un oponente controlado por la inteligencia arti
     -   `PlayerInfoComponent`: Información básica del jugador.
     -   `HandComponent`: Mano de cartas del jugador.
     -   `ResourceComponent`: Recursos del jugador.
-    -   `AIControlComponent`: Contiene la lógica o el perfil de IA que guiará las acciones del jugador. 
+    -   `AIControlComponent`: Contiene la lógica o el perfil de IA que guiará las acciones del jugador. \n

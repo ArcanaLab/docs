@@ -13,4 +13,4 @@ Este arquetipo se utiliza para crear un mazo para un jugador.
 -   **Descripción:** Representa un conjunto de cartas que pertenecen a un jugador. Las cartas se pueden barajar y robar de este mazo.
 -   **Componentes Asociados:**
     -   `CardListInDeckComponent`: Almacena la lista de entidades de carta que componen el mazo.
-    -   `OwnerPlayerComponent`: Vincula el mazo a la entidad del jugador propietario. 
+    -   `OwnerPlayerComponent`: Vincula el mazo a la entidad del jugador propietario. \n
