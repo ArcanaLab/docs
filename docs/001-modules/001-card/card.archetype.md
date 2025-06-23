@@ -6,7 +6,7 @@ Los arquetipos de carta son plantillas predefinidas para crear entidades de cart
 
 Basado en la arquitectura, existen dos arquetipos fundamentales para las cartas:
 
-### 1. Arquetipo de Criatura (`createCreatureCard`)
+### 1. Arquetipo de Criatura (`createCard`)
 
 Este arquetipo se utiliza para crear cartas que representan unidades o personajes que pueden entrar en el campo de batalla.
 
@@ -16,13 +16,3 @@ Este arquetipo se utiliza para crear cartas que representan unidades o personaje
     -   `CostComponent`: Define el costo en recursos para jugar la carta.
     -   `StatsComponent`: Contiene los valores de ataque y salud de la criatura.
     -   `EffectDefinitionComponent` (Opcional): Para criaturas con habilidades especiales.
-
-### 2. Arquetipo de Hechizo (`createSpellCard`)
-
-Este arquetipo se usa para cartas que ejecutan una acción o efecto y luego son descartadas.
-
--   **Descripción:** Representa una carta que produce un efecto instantáneo o duradero y luego se descarta.
--   **Componentes Asociados:**
-    -   `CardInfoComponent`: Información básica de la carta.
-    -   `CostComponent`: Costo para lanzar el hechizo.
-    -   `EffectDefinitionComponent`: Define la lógica y los parámetros del efecto del hechizo.
